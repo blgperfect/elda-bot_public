@@ -1,4 +1,3 @@
-````markdown
 ![Project Logo](https://cdn.discordapp.com/attachments/1102406059722801184/1387886546300043264/0C5431CA-4920-413C-BBC7-0F18DA8C3D15.png)
 
 # Elda-Bot
@@ -98,4 +97,4 @@ Merci de respecter la licence informelle : conservez toujours un crédit à l’
 © 2025 Melodie(xxmissr) – Elda-Bot
 
 ```
-```
+
